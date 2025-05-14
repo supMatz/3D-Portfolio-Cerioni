@@ -28,51 +28,12 @@ Currently, two official plugins are available:
   <br />
 </div>
 
-## 📋 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Code Snippets](#code-snippets)
-6. [Assets & More](#assets--more)
-
-## 🚀 Introduction
-
-In this video tutorial, you'll learn how to build a fully featured community forum and Q&amp;A site using modern web technologies. We’ll cover everything from real-time interactions and GitHub authentication to stunning glassy UI elements with glowing gradient effects. This project is perfect for developers who want to dive into building dynamic, interactive, and beautifully designed web applications.
-
-Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
-
 ## ⚙️ Tech Stack
 
 - **React** for building the user interface
 - **Vite** for fast development and build processes
 - **TypeScript** for type safety and modern JavaScript features
-- **Supabase** for backend services including authentication, real-time data, and storage
 - **Tailwind CSS** for rapid and responsive styling
-
-## ⚡️ Features
-
-- **User Authentication via GitHub:**  
-  Securely sign in with GitHub and display user avatars and usernames across the site.
-
-- **Post Creation with Image Uploads:**  
-  Create posts with rich content and optional image uploads, complete with the creator’s profile picture.
-
-- **Dynamic Voting System:**  
-  Thumbs up and thumbs down buttons with subtle white glow effects to indicate your vote.
-
-- **Robust Commenting System:**  
-  Engage in threaded discussions with nested replies, each showing the commenter’s username and timestamp.
-
-- **Community & Category Support:**  
-  Build a Reddit-like experience where posts are organized by communities, with posts displayed in a responsive grid.
-
-- **Modern Glassmorphism & Glow Effects:**  
-  Enjoy a visually striking interface featuring glassy, transparent cards with glowing gradient borders on hover.
-
-- **Real-Time Data Updates:**  
-  All interactions (posting, voting, commenting) update in real time using Supabase and React Query.
 
 ## 👌 Quick Start
 
