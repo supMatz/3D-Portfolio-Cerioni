@@ -86,7 +86,7 @@ const portfolio = [
     image: oscs,
   },
   {
-    name: "Sort Algorithms",
+    name: "Sorting Algorithms",
     description:
       "Not gonna lie, but this was quite hard, algorithms are not easy to understand, especially the sort ones, I had to understand in deep every one of them for a school project.",
     image: algorithms,
