@@ -8,12 +8,12 @@ const Contact = () => {
   const buttons = [
     {
       icon: <FaInstagram size={30} />, //Instagram
-      url: "https://instagram.com/cerioni.mattiaa",
+      url: "https://www.instagram.com/cerioni.mattiaa",
       color: "bg-gradient-to-r from-pink-500 to-purple-500",
     },
     {
       icon: <FaEnvelope size={30} />, //Gmail
-      url: "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRzDQkNQLcFdMdzmGlrVNJzDswCsXVQfFdcMmNXpCjJZJLBjMJWgzTsqpVbLjsktPCJNMqbd",
+      url: "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=DmwnWrRnZwFKLswVrCjxDbhwgpBlgRKVbcbkVnkWGTThkhQVqXWRWsBlcvGDSbmSxksZlczckkRL",
       color: "bg-red-500",
     },
     {
