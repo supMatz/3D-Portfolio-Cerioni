@@ -39,7 +39,7 @@ const experiences = [
     company_name: "School Projects & Self-Improvement",
     date: "2023 - 2025",
     details: [
-      "Developed 15+ modular C# applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction:cite[8]",
+      "Developed 15+ modular C# applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
       "Created RESTful APIs with ASP.NET Core integrating Entity Framework for MySQL database management",
       "Built real-time chat systems using SimpleTCP/IP library with end-to-end encryption and message queuing capabilities",
       "Implemented automated build pipelines with GitHub Actions for CI/CD workflows, reducing deployment time by 40%",
@@ -51,8 +51,8 @@ const experiences = [
     company_name: "Frontend Mastery Initiative",
     date: "2023 - 2025",
     details: [
-      "Architected 10+ responsive SPAs using React/Tailwind CSS with mobile-first approach >90:cite[3]",
-      "Implemented GitHub-based version control workflows with feature branching strategy and PR reviews:cite[5]",
+      "Architected 10+ responsive SPAs using React/Tailwind CSS with mobile-first approach",
+      "Implemented GitHub-based version control workflows with feature branching strategy and PR reviews",
       "Created interactive data dashboards using D3.js and Chart.js with WebSocket real-time updates",
       "Optimized web performance through code splitting (35% load time reduction) and CSP implementation",
       "Developed accessibility-first components meeting WCAG 2.1 standards using ARIA landmarks"
@@ -64,9 +64,9 @@ const experiences = [
     date: "2025",
     details: [
       "Created interactive code editor (fluxa.vercel.app) with React + Typescript, back-end on Convex, auth wit Clerk and payments on LemonSqueeze",
-      "Implemented JWT authentication flow with Clerk and role-based permissions matrix:cite[9]",
+      "Implemented JWT authentication flow with Clerk and role-based permissions matrix",
       "Designed MongoDB/Mongoose schemas with aggregation pipelines for complex analytics queries",
-      "Integrated Convex real-time database for collaborative features using CRDT conflict resolution:cite[1]",
+      "Integrated Convex real-time database for collaborative features using CRDT conflict resolution",
     ],
   },
   {
