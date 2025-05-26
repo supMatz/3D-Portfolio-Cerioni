@@ -36,7 +36,7 @@ export const navLinks = [
 const experiences = [
   {
     title: "Full-Stack C# Development",
-    company_name: "School Projects & Self-Improvement",
+    company_name: "School & Self-Improvement",
     date: "2023 - 2025",
     details: [
       "Developed 15+ modular <span style='color: white;'>C#</span> applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
