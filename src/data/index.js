@@ -36,7 +36,7 @@ export const navLinks = [
 const experiences = [
   {
     title: "Full-Stack C# Development",
-    company_name: "School & Self-Improvement",
+    company_name: "School | Self-Improvement",
     date: "2023 - 2025",
     details: [
       "Developed 15+ modular <span style='color: white;'>C#</span> applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
@@ -48,7 +48,7 @@ const experiences = [
   },
   {
     title: "Modern Web Development",
-    company_name: "Frontend Mastery Initiative",
+    company_name: "Learning | Self-Improvement",
     date: "2023 - 2025",
     details: [
       "Architected 10+ responsive SPAs using <span style='color: white;'>React/Tailwind CSS</span> with mobile-first approach",
@@ -58,7 +58,7 @@ const experiences = [
   },
   {
     title: "Cloud-Native Backend Systems",
-    company_name: "Distributed Systems Lab",
+    company_name: "Learning | Fun",
     date: "2025",
     details: [
       "Created interactive code editor (<span style='color: white;'>fluxa.vercel.app</span>) with <span style='color: white;'>React + Typescript</span>, back-end on <span style='color: white;'>Convex</span>, auth with <span style='color: white;'>Clerk</span> and payments on <span style='color: white;'>LemonSqueeze</span>",
@@ -69,7 +69,7 @@ const experiences = [
   },
   {
     title: "3D Game Development Suite",
-    company_name: "Unity Engine Mastery",
+    company_name: "Unity Engine",
     date: "2024",
     details: [
       "Created open-world <span style='color: white;'>RPG</span> with procedurally generated terrain and biomes",
