@@ -39,11 +39,11 @@ const experiences = [
     company_name: "School Projects & Self-Improvement",
     date: "2023 - 2025",
     details: [
-      "Developed 15+ modular C# applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
-      "Created RESTful APIs with ASP.NET Core integrating Entity Framework for MySQL database management",
-      "Built real-time chat systems using SimpleTCP/IP library with end-to-end encryption and message queuing capabilities",
+      "Developed 15+ modular <span style='color: white;'>C#</span> applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
+      "Created RESTful APIs with ASP.NET Core integrating Entity Framework for <span style='color: white;'>MySQL</span> database management",
+      "Built real-time chat systems using <span style='color: white;'>SimpleTCP/IP</span> library with end-to-end encryption and message queuing capabilities",
       "Implemented automated build pipelines with GitHub Actions for CI/CD workflows, reducing deployment time by 40%",
-      "Designed (for school) management system with SQL Client ADO.NET, featuring role-based access control and report generation"
+      "Designed (for school) a management system with SQL Client ADO.NET, featuring role-based access control and report generation"
     ],
   },
   {
@@ -51,11 +51,9 @@ const experiences = [
     company_name: "Frontend Mastery Initiative",
     date: "2023 - 2025",
     details: [
-      "Architected 10+ responsive SPAs using React/Tailwind CSS with mobile-first approach",
+      "Architected 10+ responsive SPAs using <span style='color: white;'>React/Tailwind CSS</span> with mobile-first approach",
       "Implemented GitHub-based version control workflows with feature branching strategy and PR reviews",
-      "Created interactive data dashboards using D3.js and Chart.js with WebSocket real-time updates",
       "Optimized web performance through code splitting (35% load time reduction) and CSP implementation",
-      "Developed accessibility-first components meeting WCAG 2.1 standards using ARIA landmarks"
     ],
   },
   {
@@ -63,9 +61,9 @@ const experiences = [
     company_name: "Distributed Systems Lab",
     date: "2025",
     details: [
-      "Created interactive code editor (fluxa.vercel.app) with React + Typescript, back-end on Convex, auth wit Clerk and payments on LemonSqueeze",
-      "Implemented JWT authentication flow with Clerk and role-based permissions matrix",
-      "Designed MongoDB/Mongoose schemas with aggregation pipelines for complex analytics queries",
+      "Created interactive code editor (<span style='color: white;'>fluxa.vercel.app</span>) with <span style='color: white;'>React + Typescript</span>, back-end on <span style='color: white;'>Convex</span>, auth with <span style='color: white;'>Clerk</span> and payments on <span style='color: white;'>LemonSqueeze</span>",
+      "Implemented <span style='color: white;'>JWT authentication</span> flow with Clerk and role-based permissions matrix",
+      "Designed <span style='color: white;'>MongoDB/Mongoose</span> schemas with aggregation pipelines for complex analytics queries",
       "Integrated Convex real-time database for collaborative features using CRDT conflict resolution",
     ],
   },
@@ -74,9 +72,8 @@ const experiences = [
     company_name: "Unity Engine Mastery",
     date: "2024",
     details: [
-      "Created open-world RPG with procedurally generated terrain using Perlin noise algorithms",
+      "Created open-world <span style='color: white;'>RPG</span> with procedurally generated terrain and biomes",
       "Optimized rendering pipeline achieving stable 60 FPS on mid-range hardware",
-      "Designed physics-based puzzle system with Unity's DOTS ECS architecture"
     ],
   }
 ];
