@@ -49,7 +49,7 @@ const experiences = [
     company_name: "Saas | Self-Improvement",
     date: "2025",
     details: [
-      "<span style='color: white;'>Developed a comprehensive code playground platform supporting 10 programming languages with real-time execution capabilities powered by</span> <span style='color: #00d4ff;'>Convex</span> <span style='color: white;'>backend infrastructure for lightning-fast response times</span>",
+      "<span style='color: white;'>Developed a comprehensive code playground platform (</span><span style='color: #f59e0b;'>fluxa.vercel.app</span><span style='color: white;'>) </span> supporting 10 programming languages with real-time execution capabilities powered by</span> <span style='color: #00d4ff;'>Convex</span> <span style='color: white;'>backend infrastructure for lightning-fast response times</span>",
       "<span style='color: white;'>Integrated</span> <span style='color: #9333ea;'>Clerk</span> <span style='color: white;'>authentication provider for enterprise-grade security, enabling seamless user management with social logins, email authentication, and robust data protection across user sessions</span>",
       "<span style='color: white;'>Built comprehensive user analytics dashboard at</span> <span style='color: #10b981;'>/profile</span> <span style='color: white;'>featuring detailed coding statistics, language usage metrics, execution analytics, and progress tracking for data-driven development insights</span>",
       "<span style='color: white;'>Created social code sharing ecosystem with snippet publishing, community discovery features, collaborative coding challenges, and portfolio building capabilities for developer networking</span>",
@@ -57,11 +57,11 @@ const experiences = [
     ],
   },
   {
-    title: "Cloud-Native Backend Systems",
+    title: "Cloud-Native Backend Systems and Payments Providers",
     company_name: "Learning | Fun",
     date: "2025",
     details: [
-      "<span style='color: white;'>Created interactive code editor (</span><span style='color: #f59e0b;'>fluxa.vercel.app</span><span style='color: white;'>) with</span> <span style='color: #61dafb;'>React</span> <span style='color: white;'>+</span> <span style='color: #3178c6;'>TypeScript</span><span style='color: white;'>, back-end on</span> <span style='color: #ec4899;'>Convex</span><span style='color: white;'>, auth with</span> <span style='color: #10b981;'>Clerk</span> <span style='color: white;'>and payments on</span> <span style='color: #fbbf24;'>LemonSqueeze</span>",
+      "<span style='color: white;'>Created Fluxa (</span><span style='color: #f59e0b;'>code editor above described</span><span style='color: white;'>) with</span> <span style='color: #61dafb;'>React</span> <span style='color: white;'>+</span> <span style='color: #3178c6;'>TypeScript</span><span style='color: white;'>, back-end on</span> <span style='color: #ec4899;'>Convex</span><span style='color: white;'>, auth with</span> <span style='color: #10b981;'>Clerk</span> <span style='color: white;'>and payments on</span> <span style='color: #fbbf24;'>LemonSqueeze</span>",
       "<span style='color: white;'>Implemented</span> <span style='color: #06b6d4;'>JWT authentication</span> <span style='color: white;'>flow with Clerk and role-based permissions matrix</span>",
       "<span style='color: white;'>Designed</span> <span style='color: #10b981;'>MongoDB/Mongoose</span> <span style='color: white;'>schemas with aggregation pipelines for complex analytics queries</span>",
       "<span style='color: white;'>Integrated Convex real-time database for collaborative features using</span> <span style='color: #9333ea;'>CRDT</span> <span style='color: white;'>conflict resolution</span>",
