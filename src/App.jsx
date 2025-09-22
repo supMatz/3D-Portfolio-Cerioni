@@ -1,7 +1,63 @@
 import { useRef } from 'react';
 import { BrowserRouter } from "react-router-dom";
 import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
-import SkillIconsBar from './components/SkillsIconBar';
+import LogoLoop from './components/LogoLoop';
+
+const logoStyle = {
+  width: '64px',
+  height: '64px',
+  borderRadius: '8px',
+  objectFit: 'contain',
+  backgroundColor: 'transparent'
+};
+
+const techLogos = [
+  { 
+    node: <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+      alt="React" 
+      style={logoStyle}
+    />, 
+    title: "React", 
+    href: "https://react.dev" 
+  },
+  { 
+    node: <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+      alt="Next.js" 
+      style={logoStyle}
+    />, 
+    title: "Next.js", 
+    href: "https://nextjs.org" 
+  },
+  { 
+    node: <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+      alt="TypeScript" 
+      style={logoStyle}
+    />, 
+    title: "TypeScript", 
+    href: "https://www.typescriptlang.org" 
+  },
+  { 
+    node: <img 
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+      alt="Tailwind CSS" 
+      style={logoStyle}
+    />, 
+    title: "Tailwind CSS", 
+    href: "https://tailwindcss.com" 
+  },
+  { 
+    node: <img 
+      src="https://pbs.twimg.com/profile_images/1886599096636694528/0Y8VYt94_400x400.png" 
+      alt="Convex" 
+      style={logoStyle}
+    />, 
+    title: "Convex", 
+    href: "https://convex.dev" 
+  },
+];
 
 const App = () => {
   const wrapperRef = useRef(null);
@@ -20,8 +76,19 @@ const App = () => {
           <div id="experience" className='relative z-30 bg-primary mt-[-2px]'>
             <Experience />
           </div>
-          <div id="languages" className='relative z-30 bg-primary mt-[-2px]'>
-            <SkillIconsBar />
+          <div style={{ height: '300px', position: 'relative', overflow: 'hidden'}}>
+            <LogoLoop
+              logos={techLogos}
+              speed={2}
+              direction="left"
+              logoHeight={48}
+              gap={40}
+              pauseOnHover
+              scaleOnHover
+              fadeOut
+              fadeOutColor="#ffffff"
+              ariaLabel="Technology partners"
+            />
           </div>
           <div id="contact" className='relative z-30 bg-primary mt-[-2px]'>
             <Contact />
