@@ -39,11 +39,11 @@ const experiences = [
     company_name: "School | Self-Improvement",
     date: "2023 - 2025",
     details: [
-      "Developed 15+ modular <span style='color: white;'>C#</span> applications implementing SOLID principles and design patterns, including repository pattern for data layer abstraction",
-      "Created RESTful APIs with ASP.NET Core integrating Entity Framework for <span style='color: white;'>MySQL</span> database management",
-      "Built real-time chat systems using <span style='color: white;'>SimpleTCP/IP</span> library with end-to-end encryption and message queuing capabilities",
-      "Implemented automated build pipelines with GitHub Actions for CI/CD workflows, reducing deployment time by 40%",
-      "Designed (for school) a management system with SQL Client ADO.NET, featuring role-based access control and report generation"
+      "<span style='color: white;'>Developed 15+ modular</span> <span style='color: #9333ea;'>C#</span> <span style='color: white;'>applications implementing</span> <span style='color: #00d4ff;'>SOLID principles</span> <span style='color: white;'>and design patterns, including repository pattern for data layer abstraction</span>",
+      "<span style='color: white;'>Created RESTful APIs with</span> <span style='color: #10b981;'>ASP.NET Core</span> <span style='color: white;'>integrating</span> <span style='color: #f59e0b;'>Entity Framework</span> <span style='color: white;'>for</span> <span style='color: #3b82f6;'>MySQL</span> <span style='color: white;'>database management</span>",
+      "<span style='color: white;'>Built real-time chat systems using</span> <span style='color: #ec4899;'>SimpleTCP/IP</span> <span style='color: white;'>library with end-to-end encryption and message queuing capabilities</span>",
+      "<span style='color: white;'>Implemented automated build pipelines with</span> <span style='color: #181717; background-color: white; padding: 2px 4px; border-radius: 3px;'>GitHub Actions</span> <span style='color: white;'>for CI/CD workflows, reducing deployment time by 40%</span>",
+      "<span style='color: white;'>Designed management system with</span> <span style='color: #06b6d4;'>SQL Client ADO.NET</span><span style='color: white;'>, featuring role-based access control and report generation</span>"
     ],
   },
   {
@@ -63,10 +63,10 @@ const experiences = [
     company_name: "Learning | Fun",
     date: "2025",
     details: [
-      "Created interactive code editor (<span style='color: white;'>fluxa.vercel.app</span>) with <span style='color: white;'>React + Typescript</span>, back-end on <span style='color: white;'>Convex</span>, auth with <span style='color: white;'>Clerk</span> and payments on <span style='color: white;'>LemonSqueeze</span>",
-      "Implemented <span style='color: white;'>JWT authentication</span> flow with Clerk and role-based permissions matrix",
-      "Designed <span style='color: white;'>MongoDB/Mongoose</span> schemas with aggregation pipelines for complex analytics queries",
-      "Integrated Convex real-time database for collaborative features using CRDT conflict resolution",
+      "<span style='color: white;'>Created interactive code editor (</span><span style='color: #f59e0b;'>fluxa.vercel.app</span><span style='color: white;'>) with</span> <span style='color: #61dafb;'>React</span> <span style='color: white;'>+</span> <span style='color: #3178c6;'>TypeScript</span><span style='color: white;'>, back-end on</span> <span style='color: #ec4899;'>Convex</span><span style='color: white;'>, auth with</span> <span style='color: #10b981;'>Clerk</span> <span style='color: white;'>and payments on</span> <span style='color: #fbbf24;'>LemonSqueeze</span>",
+      "<span style='color: white;'>Implemented</span> <span style='color: #06b6d4;'>JWT authentication</span> <span style='color: white;'>flow with Clerk and role-based permissions matrix</span>",
+      "<span style='color: white;'>Designed</span> <span style='color: #10b981;'>MongoDB/Mongoose</span> <span style='color: white;'>schemas with aggregation pipelines for complex analytics queries</span>",
+      "<span style='color: white;'>Integrated Convex real-time database for collaborative features using</span> <span style='color: #9333ea;'>CRDT</span> <span style='color: white;'>conflict resolution</span>",
     ],
   },
   {
@@ -74,8 +74,8 @@ const experiences = [
     company_name: "Unity Engine",
     date: "2024",
     details: [
-      "Created open-world <span style='color: white;'>RPG</span> with procedurally generated terrain and biomes",
-      "Optimized rendering pipeline achieving stable 60 FPS on mid-range hardware",
+      "<span style='color: white;'>Created open-world</span> <span style='color: #ef4444;'>RPG</span> <span style='color: white;'>with procedurally generated terrain and biomes</span>",
+      "<span style='color: white;'>Optimized rendering pipeline achieving stable</span> <span style='color: #22c55e;'>60 FPS</span> <span style='color: white;'>on mid-range hardware</span>",
     ],
   }
 ];
