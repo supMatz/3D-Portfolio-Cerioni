@@ -79,7 +79,7 @@ const App = () => {
           <div style={{ height: '300px', position: 'relative', overflow: 'hidden'}}>
             <LogoLoop
               logos={techLogos}
-              speed={2}
+              speed={120}
               direction="left"
               logoHeight={48}
               gap={40}
