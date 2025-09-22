@@ -47,13 +47,15 @@ const experiences = [
     ],
   },
   {
-    title: "Modern Web Development",
-    company_name: "Learning | Self-Improvement",
+    title: "Fluxa",
+    company_name: "Saas | Self-Improvement",
     date: "2023 - 2025",
     details: [
-      "Architected 10+ responsive SPAs using <span style='color: white;'>React/Tailwind CSS</span> with mobile-first approach",
-      "Implemented GitHub-based version control workflows with feature branching strategy and PR reviews",
-      "Optimized web performance through code splitting (35% load time reduction) and CSP implementation",
+      "<span style='color: white;'>Developed a comprehensive code playground platform supporting 15+ programming languages with real-time execution capabilities powered by</span> <span style='color: #00d4ff;'>Convex</span> <span style='color: white;'>backend infrastructure for lightning-fast response times</span>",
+      "<span style='color: white;'>Integrated</span> <span style='color: #9333ea;'>Clerk</span> <span style='color: white;'>authentication provider for enterprise-grade security, enabling seamless user management with social logins, email authentication, and robust data protection across user sessions</span>",
+      "<span style='color: white;'>Built comprehensive user analytics dashboard at</span> <span style='color: #10b981;'>/profile</span> <span style='color: white;'>featuring detailed coding statistics, language usage metrics, execution analytics, and progress tracking for data-driven development insights</span>",
+      "<span style='color: white;'>Created social code sharing ecosystem with snippet publishing, community discovery features, collaborative coding challenges, and portfolio building capabilities for developer networking</span>",
+      "<span style='color: white;'>Deployed on</span> <span style='color: #000000; background-color: white; padding: 2px 4px; border-radius: 3px;'>Vercel</span> <span style='color: white;'>with modern edge computing architecture, ensuring global performance, high availability, and scalable real-time collaboration features for individual developers and teams</span>",
     ],
   },
   {
