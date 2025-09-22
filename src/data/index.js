@@ -35,15 +35,13 @@ export const navLinks = [
 
 const experiences = [
   {
-    title: "Full-Stack C# Development",
+    title: "C# Development",
     company_name: "School | Self-Improvement",
     date: "2023 - 2025",
     details: [
       "<span style='color: white;'>Developed 15+ modular</span> <span style='color: #9333ea;'>C#</span> <span style='color: white;'>applications implementing</span> <span style='color: #00d4ff;'>SOLID principles</span> <span style='color: white;'>and design patterns, including repository pattern for data layer abstraction</span>",
-      "<span style='color: white;'>Created RESTful APIs with</span> <span style='color: #10b981;'>ASP.NET Core</span> <span style='color: white;'>integrating</span> <span style='color: #f59e0b;'>Entity Framework</span> <span style='color: white;'>for</span> <span style='color: #3b82f6;'>MySQL</span> <span style='color: white;'>database management</span>",
       "<span style='color: white;'>Built real-time chat systems using</span> <span style='color: #ec4899;'>SimpleTCP/IP</span> <span style='color: white;'>library with end-to-end encryption and message queuing capabilities</span>",
-      "<span style='color: white;'>Implemented automated build pipelines with</span> <span style='color: #181717; background-color: white; padding: 2px 4px; border-radius: 3px;'>GitHub Actions</span> <span style='color: white;'>for CI/CD workflows, reducing deployment time by 40%</span>",
-      "<span style='color: white;'>Designed management system with</span> <span style='color: #06b6d4;'>SQL Client ADO.NET</span><span style='color: white;'>, featuring role-based access control and report generation</span>"
+      "<span style='color: white;'>Designed management system with</span> <span style='color: #06b6d4;'>SQL Client</span><span style='color: white;'>, featuring role-based access control and report generation</span>"
     ],
   },
   {
