@@ -2,18 +2,6 @@ import {algorithms, oscs,} from "../assets";
 import { FaReact, FaHtml5, FaCss3, FaJs, FaPython } from "react-icons/fa";
 import { SiC, SiMysql, SiMongodb } from "react-icons/si";
 
-const skills = [
-  { name: "React", icon: FaReact, url: "https://reactjs.org/", color: "text-cyan-400" },
-  { name: "HTML", icon: FaHtml5, url: "https://developer.mozilla.org/en-US/docs/Web/HTML", color: "text-orange-500" },
-  { name: "CSS", icon: FaCss3, url: "https://developer.mozilla.org/en-US/docs/Web/CSS", color: "text-blue-500" },
-  { name: "JavaScript", icon: FaJs, url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript", color: "text-yellow-400" },
-  { name: "C", icon: SiC, url: "https://www.cprogramming.com/", color: "text-blue-200" },
-  { name: "Python", icon: FaPython, url: "https://www.python.org/", color: "text-yellow-600" },
-  { name: "MySQL", icon: SiMysql, url: "https://www.mysql.com/", color: "text-blue-700" },
-  { name: "MongoDB", icon: SiMongodb, url: "https://www.mongodb.com/", color: "text-green-600" },
-  { name: "C#", icon: null, url: "https://docs.microsoft.com/en-us/dotnet/csharp/", color: "text-purple-600", isText: true }, // C# aggiunto
-];
-
 export const navLinks = [
   {
     id: "hero",
@@ -94,4 +82,3 @@ const portfolio = [
 ];
 
 export { experiences, portfolio};
-export default skills;
