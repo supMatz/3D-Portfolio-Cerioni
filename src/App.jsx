@@ -57,6 +57,15 @@ const techLogos = [
     title: "Convex", 
     href: "https://convex.dev" 
   },
+  {
+    node: <img 
+      src="https://assets.vercel.com/image/upload/v1588805858/repositories/vercel/logo.png" 
+      alt="Vercel" 
+      style={logoStyle}
+    />, 
+    title: "Vercel", 
+    href: "https://vercel.com" 
+  },
 ];
 
 const App = () => {
