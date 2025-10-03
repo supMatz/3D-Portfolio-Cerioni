@@ -95,7 +95,7 @@ const App = () => {
               pauseOnHover
               scaleOnHover
               fadeOut
-              fadeOutColor="#ffffff"
+              fadeOutColor="#006A79"
               ariaLabel="Technology partners"
             />
           </div>
