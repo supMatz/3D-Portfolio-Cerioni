@@ -8,7 +8,7 @@ const Contact = () => {
   const buttons = [
     {
       icon: <FaInstagram size={30} />, //Instagram
-      url: "https://www.instagram.com/cerioni.mattiaa/",
+      url: "https://www.instagram.com/cerioni.mattia__/",
       color: "bg-gradient-to-r from-pink-500 to-purple-500",
     },
     {
