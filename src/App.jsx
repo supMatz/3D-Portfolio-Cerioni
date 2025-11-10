@@ -4,8 +4,8 @@ import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
 import LogoLoop from './components/LogoLoop';
 
 const logoStyle = {
-  width: '64px',
-  height: '64px',
+  width: '128px',
+  height: '128px',
   borderRadius: '8px',
   objectFit: 'contain',
   backgroundColor: 'transparent'
