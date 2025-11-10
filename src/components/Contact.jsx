@@ -85,7 +85,7 @@ const Contact = () => {
             ))}
             
             <motion.a
-              href="mailto:mattia.cerioni@example.com"
+              href="mailto:mattiacerioni12@gmail.com"
               variants={fadeIn("up", "spring", 0.6, 0.75)}
               whileHover={{ 
                 scale: 1.1,
