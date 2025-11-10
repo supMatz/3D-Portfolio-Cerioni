@@ -90,7 +90,7 @@ const App = () => {
               logos={techLogos}
               speed={120}
               direction="left"
-              logoHeight={48}
+              logoHeight={64}
               gap={40}
               pauseOnHover
               scaleOnHover
