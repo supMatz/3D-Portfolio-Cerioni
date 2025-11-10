@@ -12,12 +12,12 @@ export const navLinks = [
     title: "Portfolio",
   },
   {
-    id: "techstack",
-    title: "Tech Stack",
-  },
-  {
     id: "experience",
     title: "Experience",
+  },
+  {
+    id: "techstack",
+    title: "Tech Stack",
   },
   {
     id: "contact",
