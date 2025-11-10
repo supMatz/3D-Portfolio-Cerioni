@@ -85,7 +85,7 @@ const App = () => {
           <div id="experience" className='relative z-30 bg-primary mt-[-2px]'>
             <Experience />
           </div>
-          <div id="techstack" style={{ height: '300px', position: 'relative', overflow: 'hidden'}} className='relative z-30 bg-primary mt-[2px]'>
+          <div id="techstack" style={{ height: '300px', position: 'relative', overflow: 'hidden'}} className='relative z-30 bg-primary'>
             <LogoLoop
               logos={techLogos}
               speed={120}
