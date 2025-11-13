@@ -2,6 +2,7 @@ import { useRef } from 'react';
 import { BrowserRouter } from "react-router-dom";
 import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
 import LogoLoop from './components/LogoLoop';
+import { textVariant } from "../utils/motion";
 
 const logoStyle = {
   width: '128px',
@@ -86,6 +87,11 @@ const App = () => {
             <Experience />
           </div>
           <div id="techstack" style={{ height: '300px', position: 'relative', overflow: 'hidden'}} className='relative z-30 bg-primary'>
+            <motion.div variants={textVariant()}>
+              <h2 className={`${styles.sectionText} text-center`}>
+                Experience
+              </h2>
+            </motion.div>
             <LogoLoop
               logos={techLogos}
               speed={120}
