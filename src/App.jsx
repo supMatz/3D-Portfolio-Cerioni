@@ -89,7 +89,7 @@ const App = () => {
           <div id="techstack" style={{ height: '300px', position: 'relative', overflow: 'hidden'}} className='relative z-30 bg-primary'>
             <motion.div variants={textVariant()}>
               <h2 className={`${styles.sectionText} text-center`}>
-                Experience
+                Tech Stack
               </h2>
             </motion.div>
             <LogoLoop
