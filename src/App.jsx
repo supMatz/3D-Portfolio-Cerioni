@@ -2,7 +2,7 @@ import { useRef } from 'react';
 import { BrowserRouter } from "react-router-dom";
 import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
 import LogoLoop from './components/LogoLoop';
-import { textVariant } from "../utils/motion";
+import { textVariant } from "./utils/motion";
 
 const logoStyle = {
   width: '128px',
