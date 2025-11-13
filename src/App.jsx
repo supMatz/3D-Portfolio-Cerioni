@@ -4,7 +4,7 @@ import { Contact, Experience, Hero, Navbar, Portfolio } from "./components";
 import LogoLoop from './components/LogoLoop';
 import { textVariant } from "./utils/motion";
 import { motion } from "framer-motion";
-
+import { styles } from "./styles";
 const logoStyle = {
   width: '128px',
   height: '128px',
