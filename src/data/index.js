@@ -41,7 +41,7 @@ const experiences = [
     company_name: "Saas | Self-Improvement",
     date: "2025",
     details: [
-      "<span style='color: white;'>Developed a comprehensive code playground platform (</span><span style='color: #f59e0b;'>fluxa.vercel.app</span><span style='color: white;'>) </span> supporting 10+ programming languages with real-time execution capabilities powered by</span> <span style='color: #00d4ff;'>Convex</span> <span style='color: white;'>backend infrastructure for lightning-fast response times</span>",
+      "<span style='color: white;'>Developed a comprehensive code playground platform (</span><span style='color: #f59e0b;'>fluxa.vercel.app</span><span style='color: white;'>) </span> supporting 20+ programming languages with real-time execution capabilities powered by</span> <span style='color: #00d4ff;'>Convex</span> <span style='color: white;'>backend infrastructure for lightning-fast response times</span>",
       "<span style='color: white;'>Integrated</span> <span style='color: #9333ea;'>Clerk</span> <span style='color: white;'>authentication provider for enterprise-grade security, enabling seamless user management with social logins, email authentication, and robust data protection across user sessions</span>",
       "<span style='color: white;'>Built some user analytics dashboard at</span> <span style='color: #10b981;'>/profile</span> <span style='color: white;'>featuring a little coding statistics, language usage metrics and more</span>"
     ],
