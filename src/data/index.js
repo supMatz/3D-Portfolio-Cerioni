@@ -72,7 +72,7 @@ const portfolio = [
   {
     name: "Open Source C# e React Projects",
     description:
-      "A GitHub repo containing a curated list of easy projects for beginners to learn C, C#, React and some Phyton.",
+      "A GitHub repo containing a curated list of easy projects for beginners to learn C, C#, React and some Python.",
     image: oscs,
   },
   {
